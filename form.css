@@ -1,0 +1,84 @@
+.body{
+    background-color: rgb(255, 223, 235);
+}
+.main{
+    height: 400px;
+    width: 48%;
+    border: none;
+    margin-left: 25%;
+    margin-top: 7%;
+    border: 1px  black;
+    background-color: white;
+    padding:3% ;
+    box-shadow: 2px 2px 10px rgb(57, 55, 55);
+}
+.main h3{
+    margin-top: 100px;
+}
+.form{
+    display: flex;
+    flex-wrap: wrap;
+}
+.mail{
+    width: 93%;
+    margin: 5px;
+    border: none;
+    border-bottom: .5px solid grey;
+    font-size: large;
+    opacity: 0.5;
+}
+.name{
+    width: 47%;
+    margin-top: 20px;
+    font-size: larger;
+    border: none;
+    border-bottom: .5px solid grey;
+    margin-right: 5px;
+    opacity: 0.5;
+}
+.checkBox{
+    font-size: larger;
+    margin-top: 40px;
+    width: 2rem;
+    height: 2rem;
+    accent-color: red; 
+}
+  
+.main div{
+    width: 97%;
+    text-align:start;
+    opacity: 0.75;
+}
+.btn2{
+    font-weight: 500;
+    color: white;
+}
+.checkBox:hover{
+    opacity: 2;
+}
+
+.btn2:hover{
+    box-shadow: 2px 2px 5px black;
+    opacity: 2;
+}
+.shadow:hover{
+    box-shadow: 2px 2px 5px black;
+}
+
+.main div input{
+    border: 2px solid red;
+}
+.main button{
+    display: block;
+    width: 93%;
+    height: 30%;
+    margin-top: 20px;
+    font-size: larger;
+    background-color: red;
+    border: none;
+    opacity: 0.75;
+    border-radius: 5px;
+}
+.btn2{
+    background-color: rgb(177, 50, 71);
+}

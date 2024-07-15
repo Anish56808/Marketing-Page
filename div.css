@@ -1,0 +1,194 @@
+.div-1 img{
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.div-1 h5{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: 400;
+}
+.div-1 p{
+    text-align: center;
+    padding: 2%;
+}
+.div-1 button{
+    width: 60%;
+    margin-left: 20%;
+    height: 10%;
+    color: #FF3147;
+    background-color: white;
+}
+.div-1 div{
+    opacity: 0;
+}
+
+.div-1:hover{
+    background-image: none;
+    background-color: #FF3147;
+}
+.div-1:hover  div{
+    opacity: 1;
+
+}
+.div-2 img{
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.div-2 h5{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: 400;
+}
+.div-2 p{
+    text-align: center;
+    padding: 2%;
+}
+.div-2 button{
+    width: 60%;
+    margin-left: 20%;
+    height: 10%;
+    color: #FF3147;
+    background-color: white;
+}
+.div-2 div{
+    opacity: 0;
+}
+
+.div-2:hover{
+    background-image: none;
+    background-color: #FF3147;
+}
+.div-2:hover  div{
+    opacity: 1;
+
+}
+.div-3 img{
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.div-3 h5{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: 400;
+}
+.div-3 p{
+    text-align: center;
+    padding: 2%;
+}
+.div-3 button{
+    width: 60%;
+    margin-left: 20%;
+    height: 10%;
+    color: #FF3147;
+    background-color: white;
+}
+.div-3 div{
+    opacity: 0;
+}
+
+.div-3:hover{
+    background-image: none;
+    background-color: #FF3147;
+}
+.div-3:hover  div{
+    opacity: 1;
+
+}
+.div-4 img{
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.div-4 h5{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: 400;
+}
+.div-4 p{
+    text-align: center;
+    padding: 2%;
+}
+.div-4 button{
+    width: 60%;
+    margin-left: 20%;
+    height: 10%;
+    color: #FF3147;
+    background-color: white;
+}
+.div-4 div{
+    opacity: 0;
+}
+
+.div-4:hover{
+    background-image: none;
+    background-color: #FF3147;
+}
+.div-4:hover  div{
+    opacity: 1;
+
+}
+.div-5 img{
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.div-5 h5{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: 400;
+}
+.div-5 p{
+    text-align: center;
+    padding: 2%;
+}
+.div-5 button{
+    width: 60%;
+    margin-left: 20%;
+    height: 10%;
+    color: #FF3147;
+    background-color: white;
+}
+.div-5 div{
+    opacity: 0;
+}
+
+.div-5:hover{
+    background-image: none;
+    background-color: #FF3147;
+}
+.div-5:hover  div{
+    opacity: 1;
+
+}
+.div-6 img{
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.div-6 h5{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: 400;
+}
+.div-6 p{
+    text-align: center;
+    padding: 2%;
+}
+.div-6 button{
+    width: 60%;
+    margin-left: 20%;
+    height: 10%;
+    color: #FF3147;
+    background-color: white;
+}
+.div-6 div{
+    opacity: 0;
+}
+
+.div-6:hover{
+    background-image: none;
+    background-color: #FF3147;
+}
+.div-6:hover  div{
+    opacity: 1;
+
+}
+
+
